@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "functions": {
+    "api/send-pdf.js": { "maxDuration": 30 },
+    "api/telegram-webhook.js": { "maxDuration": 15 },
+    "api/setup.js": { "maxDuration": 15 }
+  },
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" }
+  ]
+}

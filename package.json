@@ -1,0 +1,9 @@
+{
+  "name": "rezyume-ai-miniapp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rezyume AI — Telegram Mini App + bot (Vercel deploy)",
+  "engines": {
+    "node": ">=18"
+  }
+}
